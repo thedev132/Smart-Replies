@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1049122350619-tuosub3b12aj7ak363qedh2fmq53hbd9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1049122350619-tuosub3b12aj7ak363qedh2fmq53hbd9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcVb_NWe0lGYflEC77AQdgKvplX-5ni3A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1049122350619</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Translation.SmartReplies</string>
+	<key>PROJECT_ID</key>
+	<string>zmart-replie</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zmart-replie.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1049122350619:ios:5503af437c6f6c65747abe</string>
+</dict>
+</plist>
